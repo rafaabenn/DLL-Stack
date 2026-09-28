@@ -1,0 +1,7 @@
+﻿# Binaires compilés
+*.exe
+*.dll
+*.o
+*.obj
+*.lib
+*.a
