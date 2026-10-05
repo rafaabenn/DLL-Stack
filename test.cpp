@@ -1,4 +1,4 @@
-// Benchmark.cpp — programme SÉPARÉ qui charge PileDll.dll et mesure les temps de réponse.
+// test.cpp — programme SÉPARÉ qui charge PileDll.dll et mesure les temps de réponse.
 // Il connaît seulement le nom de la DLL et de ses fonctions, pas le code de la pile.
 #include <windows.h>
 #include <chrono>
